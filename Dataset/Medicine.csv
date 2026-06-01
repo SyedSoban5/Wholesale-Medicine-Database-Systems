@@ -1,0 +1,101 @@
+MedicineID,MedicineName,Brand,Category,Price,ExpiryDate,BatchNumber,SupplierID
+1,Nite Time,Flipbug,Injection,2789.06,2025-12-12,BT-6089,1
+2,Ropinirole,Oyondu,Cream,2131.07,2026-02-18,BT-9828,7
+3,Renewal Anti-Wrinkle,Demimbu,Tablet,2925.14,2026-04-09,BT-2014,12
+4,Olanzapine and Fluoxetine,Brightdog,Capsule,3286.34,2025-05-20,BT-9840,19
+5,AZITHROMYCIN,Digitube,Injection,805.7,2026-03-04,BT-5521,7
+6,JNH Dr. Intensive Plus UV Protector,Photolist,Tablet,3833.85,2025-06-05,BT-3807,9
+7,Orajel for Cold Sores,Leexo,Capsule,1292.09,2026-03-16,BT-6156,9
+8,Nisoldipine,Trudeo,Cream,2660.06,2025-08-31,BT-4385,8
+9,ALOE ICE,Oozz,Tablet,4974.76,2025-08-26,BT-5430,15
+10,Clindamycin Phosphate,Edgeclub,Syrup,4492.01,2026-01-23,BT-9245,5
+11,Icy Hot,Quinu,Cream,2883.53,2025-08-16,BT-6651,6
+12,Delsym Night Time,Muxo,Capsule,4425.59,2025-05-24,BT-2258,3
+13,Lorazepam,DabZ,Injection,1996.86,2025-06-27,BT-0695,14
+14,NITROUS OXIDE,Meembee,Cream,1566.04,2025-08-03,BT-1787,2
+15,Doxycycline Hyclate,Quire,Tablet,4824.3,2026-04-22,BT-2426,8
+16,Antiseptic,Realcube,Tablet,1237.18,2025-11-25,BT-8544,9
+17,Donepezil hydrochloride,Brainlounge,Injection,2091.19,2026-01-22,BT-3402,8
+18,Etodolac,Skyba,Syrup,4625.91,2025-05-29,BT-6427,19
+19,Mephyton,Oyoloo,Syrup,1057.1,2026-03-01,BT-5996,12
+20,Cleocin Phosphate,Rhynoodle,Capsule,2892.15,2025-11-02,BT-1410,12
+21,Ibuprofen,Bluejam,Capsule,638.03,2025-10-31,BT-9870,17
+22,Lovastatin,Vinder,Capsule,863.15,2025-09-09,BT-3669,16
+23,Doxepin Hydrochloride,Rhycero,Injection,3361.25,2026-01-24,BT-0889,10
+24,Sea Marine Antibacterial,Buzzdog,Syrup,2885.24,2026-05-16,BT-5813,3
+25,LBEL COULEUR LUXE AMPLIFIER XP,Feedspan,Injection,3887.71,2025-12-16,BT-5093,17
+26,POLYNESIA LAGOON WATER HYDRO EMULSION,Oyope,Capsule,4112.95,2026-05-06,BT-9419,6
+27,Pain Relief PM,Babbleblab,Tablet,1702.76,2026-01-14,BT-7148,16
+28,Original Extra Strong All Natural Fishermans Friend Menthol Cough Suppressant,Quamba,Cream,4624.23,2026-05-16,BT-4328,2
+29,Extra Strength Acetaminophen,Shuffledrive,Tablet,344.13,2025-09-11,BT-5014,16
+30,Levetiracetam,Mydo,Capsule,1445.49,2026-04-27,BT-8002,17
+31,Epirubicin Hydrochloride,Zoomcast,Tablet,4854.33,2025-09-11,BT-4294,7
+32,BETULA ALBA JUICE BB,Skynoodle,Cream,2046.2,2025-10-08,BT-0303,4
+33,Ranitidine,Wordware,Syrup,3041.61,2025-12-23,BT-2498,19
+34,VANOXIDE,Gabvine,Injection,1955.18,2025-05-20,BT-1830,5
+35,AVAPTA,Edgepulse,Cream,3735.77,2025-05-20,BT-8006,5
+36,Hand Sanitizer,Yambee,Capsule,302.94,2025-09-16,BT-3340,5
+37,RITE AID DAILY MOISTURIZER,Twiyo,Injection,1871.31,2025-05-31,BT-5852,12
+38,Sunmark Allergy Relief,Skibox,Injection,789.93,2025-06-19,BT-7194,5
+39,Childrens WAL-DRYL,Jabbersphere,Capsule,4395.13,2025-10-04,BT-4496,3
+40,Athletes Foot,Twitterbeat,Capsule,3695.87,2026-03-24,BT-3844,2
+41,Rifampin,Latz,Injection,1400.06,2026-04-23,BT-3793,6
+42,Equate Tussin,Tekfly,Capsule,1931.26,2026-01-04,BT-9698,17
+43,CVS Therapeutic Menthol Pain Reliever,Yodo,Injection,2670.72,2025-10-13,BT-9418,12
+44,promethazine hydrochloride and codeine phosphate,Voolia,Syrup,3293.8,2025-08-05,BT-9094,7
+45,PhysiciansCare Ophthalmic Solution Eyewash,Tekfly,Cream,4693.62,2026-03-06,BT-3540,6
+46,Help I Have a Stuffy Nose,Rhynyx,Tablet,952.71,2026-02-01,BT-4079,9
+47,Sertraline Hydrochloride,Feednation,Tablet,2837.33,2025-11-19,BT-4261,6
+48,Oxygen,Yozio,Tablet,2419.06,2026-02-18,BT-1751,10
+49,Easily Angered,Voonyx,Syrup,4437.4,2026-02-15,BT-1913,20
+50,Ondansetron Hydrochloride,Cogibox,Capsule,4815.4,2026-05-10,BT-6767,19
+51,Diorskin Nude Natural Glow Makeup 022 Cameo,Aivee,Injection,1927.79,2025-11-02,BT-4924,16
+52,Childrens Ibuprofen,Bubblemix,Cream,1950.86,2026-01-15,BT-3086,9
+53,Prime of Life,Aimbu,Cream,81.49,2026-03-19,BT-6329,15
+54,California Mugwort,Feedspan,Tablet,944.6,2025-08-24,BT-8472,12
+55,Penicilium chrysogenum,Ailane,Syrup,4498.01,2026-02-07,BT-0552,14
+56,Mirtazapine,Roomm,Capsule,4697.06,2025-11-19,BT-0633,14
+57,equaline,Cogibox,Cream,3966.23,2026-01-03,BT-2942,10
+58,hemorrhoidal,Brainbox,Capsule,4725.66,2026-01-02,BT-3482,19
+59,Dermaquest Skin Therapy Daily Moisturizing SPF 15,Eidel,Tablet,2148.31,2026-04-20,BT-1393,11
+60,EROS AQUA BASED,Yodel,Tablet,1849.72,2025-10-19,BT-6150,16
+61,Siladryl Allergy Medicine,Dabtype,Injection,2841.8,2025-08-03,BT-6595,20
+62,Lotrimin Ultra Jock Itch,Realfire,Syrup,693.79,2026-03-10,BT-6142,2
+63,Lexapro,Leenti,Capsule,2787.83,2026-04-24,BT-4158,7
+64,CY BETTER LIPS BALM Humectante para Labios con color FPS 18,Voolia,Syrup,2080.76,2026-02-01,BT-8257,4
+65,Fentanyl,Snaptags,Capsule,2236.13,2025-06-13,BT-5783,10
+66,Levothyroxine Sodium,Oloo,Cream,2221.9,2025-05-19,BT-6509,11
+67,smart sense pain relief,Latz,Syrup,4163.09,2026-04-06,BT-3635,13
+68,Ramipril,Meevee,Cream,2772.79,2026-01-19,BT-0617,14
+69,Amoxicillin and Clavulanate Potassium,Kayveo,Syrup,1900.18,2025-10-22,BT-9833,9
+70,nanocare,Camido,Syrup,2917,2025-08-12,BT-9456,14
+71,omeprazole,Photolist,Cream,556.66,2026-01-22,BT-0741,15
+72,"Standardized Mite, Dermatophagoides pteronyssinus, Intradermal, 300 AU per mL",Topicstorm,Tablet,1061.02,2025-10-15,BT-7936,15
+73,Microgestin,Meedoo,Injection,207.11,2026-01-08,BT-9126,6
+74,DERMA ICE BURN RELIEF with Aloe Vera,Edgeblab,Syrup,1899.75,2026-03-11,BT-1123,18
+75,Oxygen,Wordware,Tablet,612.54,2026-03-13,BT-6605,2
+76,DDF,Buzzster,Cream,757.93,2025-10-07,BT-2238,8
+77,Escitalopram,Podcat,Capsule,3589.73,2026-04-14,BT-2457,6
+78,Rimmel London,Dabjam,Cream,3646.27,2025-09-25,BT-1497,6
+79,"bacitracin zinc, neomycin sulfate and polymyxin b sulfate",Gabvine,Syrup,2291.38,2026-02-23,BT-9237,11
+80,OXCARBAZEPINE,Rhyloo,Cream,2658.14,2026-02-01,BT-3250,20
+81,Zyvox,Bubbletube,Injection,928.56,2025-07-04,BT-4105,10
+82,DG Body,Quatz,Capsule,2806.21,2025-10-10,BT-6523,11
+83,Beyond BB Perfecting Foundation Broad Spectrum SPF 15 Sunscreen,Gevee,Tablet,91.22,2025-10-02,BT-3816,6
+84,Metoprolol Tartrate,Skibox,Injection,2826.65,2026-05-16,BT-7472,6
+85,HAMSOA YUYU DEEP MOISTURE,Gabspot,Syrup,4566.48,2026-01-04,BT-8184,7
+86,Childrens Acetaminophen,Digitube,Tablet,475.81,2025-11-08,BT-5765,18
+87,TERBINAFINE HYDROCHLORIDE,Skipfire,Syrup,2665.96,2025-06-28,BT-8843,18
+88,CONDITION AND ENHANCE SYSTEM,Ntags,Syrup,585,2025-10-29,BT-2265,10
+89,Olive Vaginal Formula,Dabtype,Syrup,3473.48,2025-11-08,BT-0937,1
+90,Zolmitriptan,Skyvu,Syrup,58.68,2026-02-11,BT-9396,12
+91,KLOR-CON,Livetube,Cream,4463.05,2025-06-22,BT-5106,20
+92,Benadryl Extra Strength Itch Relief,Tagtune,Tablet,1016.53,2026-05-04,BT-2549,15
+93,Sweet Corn,Podcat,Syrup,4019.16,2025-12-13,BT-8051,17
+94,ACTEMRA,Buzzdog,Capsule,3313.43,2025-12-12,BT-8995,16
+95,ibuprofen,Zava,Cream,4602.89,2025-10-27,BT-0923,16
+96,clomiphene citrate,Kanoodle,Tablet,3068.87,2026-02-26,BT-8237,11
+97,Aire-Master Sanitizer Gel vit e/a,Twitterworks,Syrup,3685.85,2025-10-25,BT-7814,19
+98,anna lotan PRO Protective LIGHTENING CARE UVA/UVB SPF 15 For Sun Damaged Skin,Ntag,Cream,718.84,2026-04-02,BT-1803,17
+99,Glyburide and Metformin,Skyndu,Syrup,4644.35,2025-10-21,BT-0826,1
+100,EQUUS CABALLUS SKIN,Mudo,Injection,4187.21,2026-02-28,BT-1432,13
