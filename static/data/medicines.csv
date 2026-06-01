@@ -1,0 +1,101 @@
+MedicineID,MedicineName,Brand,Category,Price,ExpiryDate,BatchNumber,SupplierID
+1,Oxymorphone hydrochloride,Photospace,Tablet,494.07,8/15/2025,BT-8984,12
+2,"Octinoxate, Octocrylene",Bubbletube,Capsule,4471.07,12/8/2025,BT-7264,18
+3,Octinoxate and Oxybenzone,Leexo,Syrup,3860.73,11/14/2025,BT-3242,11
+4,Azithromycin,Meevee,Injection,3237.57,8/31/2025,BT-0856,8
+5,Pantoprazole Sodium,Babbleblab,Cream,1805.21,4/22/2026,BT-9734,5
+6,Isopropyl Alcohol,Dynabox,Drops,4132.94,9/30/2025,BT-7777,8
+7,TENOFOVIR DISOPROXIL FUMARATE,Linktype,Gel,1505.18,10/8/2025,BT-6144,7
+8,Natural Medicine,Jabberstorm,Patch,1116.83,9/19/2025,BT-6513,12
+9,"camphor, eucalyptus oil, menthol natural",Feedbug,Lozenge,2194.77,4/21/2026,BT-5994,16
+10,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Gabtune,Spray,391.12,9/10/2025,BT-0675,13
+11,"TITANIUM DIOXIDE, ZINC OXIDE",Skippad,Tablet,274.14,5/13/2026,BT-7365,1
+12,HUSKY 515,Rhycero,Capsule,1353.62,12/22/2025,BT-5364,16
+13,Guaifenesin,Flashdog,Syrup,1812.65,9/28/2025,BT-0165,11
+14,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",Divavu,Injection,105.47,11/6/2025,BT-2804,1
+15,"Acetaminophen, Dextromethorphan Hydrobromide,Phenylephrine Hydrochloride",Oba,Cream,4083.46,2/12/2026,BT-2000,14
+16,DIPYRIDAMOLE,Bluejam,Drops,1297.79,11/20/2025,BT-7338,9
+17,Lisinopril,Centizu,Gel,2717.82,2/11/2026,BT-1123,13
+18,NAPROXEN SODIUM,Devshare,Patch,1086.42,3/13/2026,BT-0883,17
+19,PREGABALIN,Jaxworks,Lozenge,3424.07,4/15/2026,BT-3566,17
+20,"Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl",Fivespan,Spray,4040.44,6/20/2025,BT-9280,7
+21,Pelargonium sidoides,Katz,Tablet,1075.9,5/10/2026,BT-7193,11
+22,Nicotine Polacrilex,Divanoodle,Capsule,3402.52,6/20/2025,BT-2545,11
+23,clonidine hydrochloride,Oyope,Syrup,4783.18,11/1/2025,BT-5587,13
+24,ibuprofen,Oyope,Injection,3427.94,9/26/2025,BT-0919,17
+25,MENTHOL,Meembee,Cream,1032.65,5/21/2025,BT-0948,15
+26,TITANIUM DIOXIDE,Aibox,Drops,3311.45,2/25/2026,BT-0917,19
+27,Montelukast Sodium,Rooxo,Gel,2038.99,10/13/2025,BT-9378,4
+28,alendronate sodium,Oyoba,Patch,3555.02,11/26/2025,BT-4854,1
+29,Triclocarben,Edgeclub,Lozenge,4320.17,4/30/2026,BT-1982,4
+30,fentanyl citrate,Realpoint,Spray,1215.58,6/29/2025,BT-8042,8
+31,Octinoxate,Skinder,Tablet,4017.34,9/6/2025,BT-8233,16
+32,Alprazolam,Oyonder,Capsule,348.96,5/27/2025,BT-7955,6
+33,Buspirone hydrochloride,Fivechat,Syrup,1246.19,11/24/2025,BT-3811,14
+34,Simethicone,Tagcat,Injection,4299.21,2/20/2026,BT-6414,5
+35,OCTINOXATE,Katz,Cream,1401.06,2/22/2026,BT-4740,1
+36,White Potato,Brainlounge,Drops,4632,4/15/2026,BT-1830,15
+37,simvastatin,Meezzy,Gel,3259.84,2/19/2026,BT-8747,8
+38,furosemide,Feednation,Patch,113.75,10/20/2025,BT-4886,11
+39,Hydroxyurea,Brightdog,Lozenge,508.75,8/12/2025,BT-6401,17
+40,chlorthalidone,Bubbletube,Spray,2349,9/19/2025,BT-6923,9
+41,DOCUSATE SODIUM,Skyvu,Tablet,4141.84,7/15/2025,BT-3684,4
+42,Rye Grass Italian,Quimm,Capsule,120.84,10/16/2025,BT-3491,15
+43,Acetaminophen,Meemm,Syrup,2049.41,11/12/2025,BT-8681,17
+44,halobetasol propionate,Trudoo,Injection,1420.73,6/6/2025,BT-2851,16
+45,meloxicam,Plambee,Cream,2835.78,9/11/2025,BT-4050,15
+46,clindamycin phosphate,Devcast,Drops,1771.15,1/13/2026,BT-0682,16
+47,ESZOPICLONE,Wikizz,Gel,1267.15,7/3/2025,BT-0119,13
+48,carvedilol,Photofeed,Patch,3669.53,6/27/2025,BT-5729,20
+49,Famotidine,Jaxnation,Lozenge,4848.16,10/7/2025,BT-4821,13
+50,"Allium Cepa 30c, Arsenicum 30c, Thuja 30c, Badiaga 30c, Carbo Veg 30c, Dulcamara 30c, Euphrasia 30c, Iodatum 30c, Naja 30c, Nat Sulph 30c, Nux Vomica 30c, Sabadilla 30c, Sinapis Nigra 30c",Edgeify,Spray,1710.13,2/18/2026,BT-8213,20
+51,venlafaxine,Skipfire,Tablet,3507.5,4/13/2026,BT-0627,4
+52,Zinc Oxide 7%,Riffwire,Capsule,2252.86,7/22/2025,BT-8885,6
+53,ALCOHOL,Lajo,Syrup,2737.57,8/18/2025,BT-8221,18
+54,Isopropyl Alcohol,Skyndu,Injection,3598.31,9/8/2025,BT-5378,16
+55,DEXTRAN 70,Skidoo,Cream,2978.18,12/31/2025,BT-3719,2
+56,clonidine hydrochloride,Thoughtmix,Drops,1496.47,6/16/2025,BT-3309,7
+57,Nicotine polacrilex,Realblab,Gel,4274.55,12/6/2025,BT-7559,11
+58,Clarithromycin,Trupe,Patch,2489.81,1/27/2026,BT-7161,9
+59,Octinoxate and Oxybenzone,DabZ,Lozenge,4262.52,1/20/2026,BT-1980,12
+60,Black Oak,Dabtype,Spray,4261.01,5/16/2025,BT-6860,14
+61,TITANIUM DIOXIDE,Livetube,Tablet,4147.93,10/16/2025,BT-5204,1
+62,Lisinopril,Centimia,Capsule,4721.05,12/16/2025,BT-8502,4
+63,HUMAN IMMUNEGLOBULIN G and HYALURONIDASE (HUMAN RECOMBINANT),Babbleblab,Syrup,1553.65,10/17/2025,BT-8346,4
+64,Potassium Iodide,Avamm,Injection,2461.76,11/7/2025,BT-9329,5
+65,Gabapentin,Kamba,Cream,4540.87,6/27/2025,BT-6746,7
+66,Titanium Dioxide and Zinc Oxide,Trudoo,Drops,951.39,10/20/2025,BT-8617,12
+67,Trolamine Salicylate,Skilith,Gel,4466.14,4/19/2026,BT-0907,14
+68,Desmopressin Acetate,Jaxbean,Patch,2550.64,1/14/2026,BT-6678,18
+69,Epsom Salt,Vinder,Lozenge,321.96,11/2/2025,BT-1747,8
+70,AMOXICILLIN,Jabbersphere,Spray,3309.53,5/25/2025,BT-1820,14
+71,Povidone-Iodine,Skajo,Tablet,710.38,11/14/2025,BT-7257,7
+72,"Elaps corallinus, Alumina, Carbo veg., Causticum, Conium, Graphites, Kali bic.,Kali mur., Lachesis, Lycopodium, Petroleum, Pulsatilla, Sabadilla, Sepia, Silicea, Spongia, Verbascum, Viola odorata",Yodo,Capsule,2818.7,9/9/2025,BT-6218,1
+73,HEPARIN SODIUM,Avamm,Syrup,4495.66,5/10/2026,BT-2462,16
+74,MEPIVACAINE HYDROCHLORIDE,Skajo,Injection,3096.27,12/22/2025,BT-5276,9
+75,benzoyl peroxide,Lazzy,Cream,3573.26,5/1/2026,BT-3880,10
+76,nicotine polacrilex,Avamba,Drops,971.52,6/12/2025,BT-0550,2
+77,Olanzapine,Wordware,Gel,805.95,3/31/2026,BT-8965,17
+78,DIMETHICONE,Aivee,Patch,382.91,7/25/2025,BT-2309,17
+79,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Gigaclub,Lozenge,4388.2,5/14/2026,BT-6036,4
+80,Medroxyprogesterone Acetate,Meejo,Spray,2607.71,9/28/2025,BT-9759,16
+81,Clindamycin in 5 Percent Dextrose,Gabtune,Tablet,1510,5/21/2025,BT-4036,15
+82,MICONAZOLE NITRATE,Divavu,Capsule,778.04,10/30/2025,BT-3485,5
+83,Alcohol,Edgeblab,Syrup,2144.2,6/19/2025,BT-4557,8
+84,"Asclepias tuberose, Drosera rotundifolia, Hepar sulphuris calcareum, Silicea, Stannum metallicum",Dynabox,Injection,2268.57,3/17/2026,BT-5635,13
+85,"Kali gluconicum, Glandula suprarenalis suis, Hepar suis, Arsenicum album, Iridium metallicum, Phosphorus, Selenium metallicum, Sulphur, Histaminum hydrochloricum, Hyaluronidase, Interferon, Serotonin,",Feedfish,Cream,2862.51,2/27/2026,BT-3501,12
+86,ALCOHOL,Cogidoo,Drops,332.49,4/19/2026,BT-8677,12
+87,Levetiracetam,Oyope,Gel,2236.11,10/19/2025,BT-3912,17
+88,sertraline hydrochloride,Blogtag,Patch,3335.28,1/11/2026,BT-6463,16
+89,Morphine Sulfate,Twitterlist,Lozenge,4778.4,10/13/2025,BT-7162,18
+90,Ceftriaxone Sodium,Tekfly,Spray,353.6,4/24/2026,BT-7090,5
+91,Vecuronium Bromide,Edgepulse,Tablet,1542.58,9/30/2025,BT-3368,6
+92,Potassium Chloride Solution,Mudo,Capsule,3613.17,5/19/2025,BT-0304,11
+93,Common Sagebrush,Myworks,Syrup,2637.51,12/6/2025,BT-5315,15
+94,DIAZEPAM,Kwinu,Injection,3464.39,3/2/2026,BT-7587,15
+95,"anti-interleukin-1.alpha. immunoglobulin g rabbit, ascorbic acid, metenkefalin, ersofermin, bos taurus cartilage, sus scrofa cartilage, pork collagen, bos taurus red blood cell, sus scrofa red blood cell, interleukin-3, interleukin-3, beef liver, pork liver, beef, pork, bos taurus tendon, sus scrofa tendon, cetermin",Ainyx,Cream,4753.83,3/23/2026,BT-9662,18
+96,Benzalkonium Chloride,Realfire,Drops,3274.94,1/4/2026,BT-9405,1
+97,Alcohol,Babbleblab,Gel,1729.61,4/20/2026,BT-2239,13
+98,ketorolac tromethamine,Geba,Patch,829.52,12/28/2025,BT-3852,14
+99,ADENOSINE,Roodel,Lozenge,1281.03,1/29/2026,BT-5313,3
+100,diltiazem hydrochloride,Twiyo,Spray,1342.72,12/5/2025,BT-4158,19
