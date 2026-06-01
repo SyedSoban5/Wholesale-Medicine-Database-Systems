@@ -266,7 +266,6 @@ Wholesale-Medicine-Database-System
 ├── Documentation
 ├── CSV
 ├── SQL
-├── Screenshots
 ├── Frontend
 └── README.md
 ```
